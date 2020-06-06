@@ -1,24 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Method1 from "./Method1";
+import Method2 from "./Method2";
+import Method3 from "./Method3";
 
 function App() {
+ 
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <Method1 />
+      <div className="twoMethods">
+        <Method2 />
+        <Method3 />
+      </div>
+<h6>بهار 1399 - سجاد ناصری زاده - 09166505841</h6>      
+
     </div>
   );
 }
