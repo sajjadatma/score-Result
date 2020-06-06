@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/score-Result/static/css/main.f3e462e9.chunk.css",
+    "main.js": "/score-Result/static/js/main.2f7b903f.chunk.js",
+    "main.js.map": "/score-Result/static/js/main.2f7b903f.chunk.js.map",
+    "runtime-main.js": "/score-Result/static/js/runtime-main.c6cab8f8.js",
+    "runtime-main.js.map": "/score-Result/static/js/runtime-main.c6cab8f8.js.map",
+    "static/js/2.c021f3f9.chunk.js": "/score-Result/static/js/2.c021f3f9.chunk.js",
+    "static/js/2.c021f3f9.chunk.js.map": "/score-Result/static/js/2.c021f3f9.chunk.js.map",
+    "index.html": "/score-Result/index.html",
+    "precache-manifest.b8a0df743baca8e6e2b96c7de18bb38e.js": "/score-Result/precache-manifest.b8a0df743baca8e6e2b96c7de18bb38e.js",
+    "service-worker.js": "/score-Result/service-worker.js",
+    "static/css/main.f3e462e9.chunk.css.map": "/score-Result/static/css/main.f3e462e9.chunk.css.map",
+    "static/js/2.c021f3f9.chunk.js.LICENSE.txt": "/score-Result/static/js/2.c021f3f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/score-Result/static/media/Vazir.db055c88.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6cab8f8.js",
+    "static/js/2.c021f3f9.chunk.js",
+    "static/css/main.f3e462e9.chunk.css",
+    "static/js/main.2f7b903f.chunk.js"
+  ]
+}
